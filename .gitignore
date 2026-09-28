@@ -1,0 +1,6 @@
+# Local binary assets
+*.pdf
+
+# Dependencies and environment
+node_modules/
+.DS_Store
